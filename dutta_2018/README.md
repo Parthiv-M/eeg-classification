@@ -24,8 +24,8 @@ All the modules required for running this project are present in the `requiremen
 ## The Implementation
 
 This is the easiest part. All the code is present in two Jupyter notebooks.
-- [This](https://github.com/Parthiv-M/eeg-classification/blob/e8dd387e3245513738b9137ebf5cd74b775310e2/anderson_1996/EEG%20Preprocessing%20and%20Feature%20Extraction.ipynb) notebook contains the code for feature extraction
-- [This](https://github.com/Parthiv-M/eeg-classification/blob/e8dd387e3245513738b9137ebf5cd74b775310e2/anderson_1996/Neural%20Network.ipynb) notebook contains the code for the LSSVM model with the three different kernels.
+- [This](https://github.com/Parthiv-M/eeg-classification/blob/e8dd387e3245513738b9137ebf5cd74b775310e2/dutta_2018/Feature%20Extraction.ipynb) notebook contains the code for feature extraction
+- [This](https://github.com/Parthiv-M/eeg-classification/blob/e8dd387e3245513738b9137ebf5cd74b775310e2/dutta_2018/LSSVM.ipynb) notebook contains the code for the LSSVM model with the three different kernels.
 
 ## Important Note
 
